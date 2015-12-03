@@ -1,0 +1,25 @@
+<nav>
+  
+  <a href="/">
+    {% if site.data.theme.social.gravatar %}
+    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar"/>
+    {% else %}
+    <img src="/logo.png" id="logo" alt="Blog logo"/>
+    {% endif %}
+  </a>
+  <h2>
+  {% if site.data.theme.site_url %}
+   <a href="{{site.data.theme.site_url}}" target="_blank">{{ site.data.theme.name }}</a>
+    {% else %}
+       {{ site.data.theme.name }}
+    {% endif %}
+ </h2>
+  <div id="bio">
+    {% if site.data.theme.tagline %}
+     <p> {{ site.data.theme.tagline }}  </p>
+    {% endif %}
+  </div>
+  <div id="social">
+    {% include social.html %}
+  </div>
+</nav>

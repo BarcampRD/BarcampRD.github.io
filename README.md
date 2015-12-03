@@ -1,2 +1,0 @@
-BarcampSTI.github.io
-====================

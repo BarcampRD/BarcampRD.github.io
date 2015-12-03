@@ -1,1 +1,43 @@
-Hello World
+---
+layout: default
+title: Aspectos más destacados del BarCamp RD
+---
+
+<div id="home">
+
+ <img src="/barcamp2015.png" class="logobarcamp" alt="BarCamp RD"/>
+  
+  
+   <h3>Aspectos más destacados del BarCamp RD 2015</h3>
+    <p>Hemos realizado una selección de las presentaciones y aspectos más destacados del BarCamp RD.</p>
+   
+
+<h2><i class="fa fa-bookmark"></i>PRESENTACIONES</h2>
+<ul>
+<li>Integración de proyectos embebidos utilizando Arduino, Raspberry PI y Java  por <strong>Carlos camacho</strong> y por <strong>Javier Marte</strong> <a href="http://www.slideshare.net/vacax/barcamp-2015-integracin-de-proyectos-embebidos-utilizando-arduino-raspberry-pi-y-java" target="_blank">[SlideShare]</a>
+</li>
+
+<li>Java8 : Más allá de las Expresiones Lambdas por <strong>Eudris Cabrera</strong> <a href="http://www.slideshare.net/eudris/java8-ms-all-de-las-expresiones-lambdas" target="_blank">[SlideShare]</a>
+</li>
+
+<li>Django 101: Backend ágil con Django web Framework por <strong>Emilio Ferreyra</strong> <a href="http://slides.com/emilioferreyra/django-101/#/" target="_blank">[Slides]</a>
+</li>
+</ul>
+ <p>Puedes obtener la información completa sobre el evento en nuestro sitio web {% if site.data.theme.site_url %}
+   <a href="{{site.data.theme.site_url}}" target="_blank">{{site.data.theme.site_url}}</a>
+    {% endif %}.</p>
+  <h2><i class="fa fa-bookmark"></i>ARCHIVOS</h2>   
+
+   
+  <ul id="blog-posts" class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+Como siempre, envíe cualquier comentario acerca de las desconferencias,lugar o personal, o quejas y elogios en general a nuestro correo {% if site.data.theme.email %}
+	  <a href="mailto:{{ site.data.theme.email}}">{{ site.data.theme.email}}</a>
+    {% endif %}
+
+ 
+</div>
