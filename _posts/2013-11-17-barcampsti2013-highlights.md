@@ -28,8 +28,6 @@ En nuestro primer año, teníamos  el reto de reunir a desarrolladores, profesor
 * Introducción a la Minería de Textos [Google Drive](http://goo.gl/zhZdmi) por **Lisibonny Beato**
 * Arquitectura ONION [Prezi](http://goo.gl/bCRvLd) [Google Drive](http://goo.gl/SoMxd3) por **Ramon Elias Rodriguez**
 * Hardware de Bolsillo [Google Drive](http://goo.gl/jAv60G) por **Jonathan Garrido**
-* Primeros Pasos con Maven [SlideShare](http://www.slideshare.net/eudris/primeros-pasos-con-maven) 
-  [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Maven)
-por **Eudris Cabrera**
+* Primeros Pasos con Maven [SlideShare](http://www.slideshare.net/eudris/primeros-pasos-con-maven) [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Maven) por **Eudris Cabrera**
 * Introducción al desarrollo Android [Google Drive](http://goo.gl/2e2W6I) [Youtube](https://www.youtube.com/watch?v=5krwNUSFuD0)  [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Android) por **Noe Branagan** 
 
