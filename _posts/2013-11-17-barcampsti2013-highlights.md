@@ -31,8 +31,5 @@ En nuestro primer año, teníamos  el reto de reunir a desarrolladores, profesor
 * Primeros Pasos con Maven [SlideShare](http://www.slideshare.net/eudris/primeros-pasos-con-maven) 
   [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Maven)
 por **Eudris Cabrera**
-* Introducción al desarrollo Android [Google Drive](http://goo.gl/2e2W6I) [Youtube](https://www.youtube.com/watch?v=5krwNUSFuD0)  [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Android)
-
- por **Noe Branagan**
-* 
+* Introducción al desarrollo Android [Google Drive](http://goo.gl/2e2W6I) [Youtube](https://www.youtube.com/watch?v=5krwNUSFuD0)  [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Android) por **Noe Branagan** 
 
