@@ -30,4 +30,11 @@ En nuestro primer año, teníamos  el reto de reunir a desarrolladores, profesor
 * Hardware de Bolsillo [Google Drive](http://goo.gl/jAv60G) por **Jonathan Garrido**
 * Primeros Pasos con Maven [SlideShare](http://www.slideshare.net/eudris/primeros-pasos-con-maven) [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Maven) por **Eudris Cabrera**
 * Introducción al desarrollo Android [Google Drive](http://goo.gl/2e2W6I) [Youtube](https://www.youtube.com/watch?v=5krwNUSFuD0)  [GitHub](https://github.com/BarcampRD/BarCampSTI2013-Android) por **Noe Branagan** 
+* Pentaho: Business analytics and business intelligence por **Donis Tavera**
+* Introducción a Objective-C (Desarrollo en iOS) [GitHub](https://github.com/BarcampRD/BarCampSTI2013-iOS) por **Vin Rosa**
+* Test Driven Development en .NET [GitHub](https://github.com/BarcampRD/bcsti-domino-test) por **Amhed Herrera**
+* Programación en Paralelo y EC2 [GitHub](https://github.com/BarcampRD/FloydWarshallMPI) por **Roberto Abreu**
+* Portales - Liferay (Portlets JSR-186 y JSR-286) por **Vin Rosa**
+*  Node.js + Socket.IO [GitHub](https://github.com/BarcampRD/BarcampSTI-NodeJS-Socket.IO) por **Jose Gratereaux**
+
 
